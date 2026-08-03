@@ -1,0 +1,4 @@
+{
+  "version": "2.0.0",
+  "changelog": "v2.0.0 - Server-sided EMS duty check, 0.00ms idle, removed client loops, exploit fixes"
+}
